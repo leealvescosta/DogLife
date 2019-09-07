@@ -3,17 +3,21 @@
 ## Login Screen ##
 
 > A new Flutter project.
+
 > Projeto criado com **Flutter** :heart:.
+
 > Login Screen *Example* *only*
+
 > You can **fork** this project
+
 > Inspirado no prejto criado por 
 [Balta.io](https://www.youtube.com/watch?v=Rc_GJpRU6VI&list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61)
 
 <p align='center'>
-  <img width="460" height="300" src="screenshots/DogLife.gif">
-  <img width="460" height="300" src="screenshots/Login.png">
-  <img width="460" height="300" src="screenshots/Cadastro.png">
-  <img width="460" height="300" src="screenshots/Resetar-Senha.png">
+  <img width="300" height="480" src="screenshots/DogLife.gif">
+  <img width="300" height="480" src="screenshots/Login.png">
+  <img width="300" height="480" src="screenshots/Cadastro.png">
+  <img width="300" height="480" src="screenshots/Resetar-Senha.png">
 </p>
 
 ## Change Log ##
