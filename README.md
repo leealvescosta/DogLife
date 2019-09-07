@@ -11,7 +11,7 @@
 > Inspirado no prejto criado por 
 [Balta.io](https://www.youtube.com/watch?v=Rc_GJpRU6VI&list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61)
 <p align='center'>
-![*](screenshots/DogLife.gif)
+[<img src="screenshots/DogLife.gif">
  </p>
 
 <p align='center'>
