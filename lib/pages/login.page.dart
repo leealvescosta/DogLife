@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:tela_login/pages/home.page.dart';
-import 'package:tela_login/pages/resetpassword.page.dart';
+import 'package:tela_login/pages/reset-password.page.dart';
 import 'package:tela_login/pages/signup.page.dart';
 
 class LoginPage extends StatelessWidget {
@@ -56,7 +56,7 @@ class LoginPage extends StatelessWidget {
               alignment: Alignment.centerRight,
               child: FlatButton(
                 child: Text(
-                  "Esqueci minha Senha",
+                  "Esqueci minha senha",
                   textAlign: TextAlign.right,
                 ),
                 onPressed: () {
@@ -143,7 +143,7 @@ class LoginPage extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: <Widget>[
                       Text(
-                        "Entrar com Facebook",
+                        "Entrar com o Facebook",
                         style: TextStyle(
                           fontWeight: FontWeight.bold,
                           color: Colors.white,
