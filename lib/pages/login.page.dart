@@ -175,7 +175,61 @@ class LoginPage extends StatelessWidget {
               height: 10,
             ),
             Container(
-              //Container cadastre-se-------------------------------------------
+              //Container botão entrar com Facebook---------------------------------------
+              height: 60,
+              alignment: Alignment.centerLeft,
+              decoration: BoxDecoration(
+                color: Colors.redAccent,
+                borderRadius: BorderRadius.all(
+                  Radius.circular(20),
+                ),
+              ),
+              child: SizedBox.expand(
+                child: FlatButton(
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: <Widget>[
+                      Text(
+                        "Entrar com o Google",
+                        style: TextStyle(
+                          fontWeight: FontWeight.bold,
+                          color: Colors.white,
+                          fontSize: 20,
+                        ),
+                        textAlign: TextAlign.left,
+                      ),
+                      Container(
+                        child: SizedBox(
+                          child: Image.asset("assets/google-logo.png"),
+                          height: 28,
+                          width: 28,
+                        ),
+                      ),
+                    ],
+                  ),
+                  onPressed: () => {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => HomePage(),
+                      ),
+                    ),
+                  },
+                ),
+              ),
+            ),
+            SizedBox(
+              height: 20,
+              child: new Center(
+                child: new Container(
+                  margin: new EdgeInsetsDirectional.only(start: 1.0, end: 1.0),
+                  height: 1.0,
+                  color: Colors.grey[500],
+                ),
+              ),
+            ),
+            Container(
+              //Container cadastre-se------------------------------------------
               height: 40,
               child: FlatButton(
                 child: Text(

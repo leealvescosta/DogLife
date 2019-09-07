@@ -6,6 +6,13 @@
 > Projeto criado com **Flutter** :heart:.
 > Login Screen *Example* *only*
 > You can **fork** this project
+> Projeto inspirado no prejto criado por [Balta.io](https://www.youtube.com/watch?v=Rc_GJpRU6VI&list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61)
+
+![**](screenshots/DogLife.gif)
+
+![Login](screenshots/Login.png)
+![Cadastro](screenshots/Cadastro.png)
+![Redefinir Senha](screenshots/Resetar-Senha.png)
 
 ## Change Log ##
 
@@ -13,13 +20,15 @@ Nothing changed at same
 
 ## Version 1.0.0 ##
 
-### Features ###
+## Features ##
 
 Login button with acount and Facebook implemented.
 Screens for SignUp, Reset Password and Application Home done.
 
-[GNU License](https://www.gnu.org/licenses/lgpl-3.0.html)
-[MIT License](https://opensource.org/licenses/MIT)
+## License ##
+
+[![GNU License](https://www.gnu.org/licenses/lgpl-3.0.html)
+[![MIT License](https://opensource.org/licenses/MIT)
 
 ## Getting Started  Witth Flutter ##
 
