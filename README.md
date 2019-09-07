@@ -12,7 +12,6 @@
 [Balta.io](https://www.youtube.com/watch?v=Rc_GJpRU6VI&list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61)
 
 <p align='center'>
-  <img width="300" height="520" src="screenshots/DogLife.gif">
   <img width="300" height="480" src="screenshots/Login.png">
   <img width="300" height="480" src="screenshots/Cadastro.png">
   <img width="300" height="480" src="screenshots/Resetar-Senha.png">
