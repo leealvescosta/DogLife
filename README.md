@@ -34,6 +34,7 @@ Screens for SignUp, Reset Password and Application Home done.
 ## License ##
 
 [GNU License](https://www.gnu.org/licenses/lgpl-3.0.html)
+
 [MIT License](https://opensource.org/licenses/MIT)
 
 ## Getting Started  Witth Flutter ##
