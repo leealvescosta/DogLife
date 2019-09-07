@@ -1,8 +1,27 @@
-# tela_login
+# Tela de Login #
 
-A new Flutter project.
+## Login Screen ##
 
-## Getting Started
+> A new Flutter project.
+> Projeto criado com **Flutter** :heart:.
+> Login Screen *Example* *only*
+> You can **fork** this project
+
+## Change Log ##
+
+Nothing changed at same
+
+## Version 1.0.0 ##
+
+### Features ###
+
+Login button with acount and Facebook implemented.
+Screens for SignUp, Reset Password and Application Home done.
+
+[GNU License](https://www.gnu.org/licenses/lgpl-3.0.html)
+[MIT License](https://opensource.org/licenses/MIT)
+
+## Getting Started  Witth Flutter ##
 
 This project is a starting point for a Flutter application.
 
