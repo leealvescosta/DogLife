@@ -11,7 +11,7 @@
 > Inspirado no prejto criado por 
 [Balta.io](https://www.youtube.com/watch?v=Rc_GJpRU6VI&list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61)
 <p align='center'>
-[<img src="screenshots/DogLife.gif">
+<img src="screenshots/DogLife.gif">
  </p>
 
 <p align='center'>
@@ -22,7 +22,7 @@
 
 ## Change Log ##
 
-Nothing changed at same
+- Nothing changed at same
 
 ## Version 1.0.0 ##
 
@@ -33,9 +33,9 @@ Screens for SignUp, Reset Password and Application Home done.
 
 ## License ##
 
-[GNU License](https://www.gnu.org/licenses/lgpl-3.0.html)
+- [GNU License](https://www.gnu.org/licenses/lgpl-3.0.html)
 
-[MIT License](https://opensource.org/licenses/MIT)
+- [MIT License](https://opensource.org/licenses/MIT)
 
 ## Getting Started  Witth Flutter ##
 
