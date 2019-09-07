@@ -11,6 +11,8 @@
 > Inspirado no prejto criado por 
 [Balta.io](https://www.youtube.com/watch?v=Rc_GJpRU6VI&list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61)
 
+![*](screenshots/DogLife.gif)
+
 <p align='center'>
   <img width="300" height="480" src="screenshots/Login.png">
   <img width="300" height="480" src="screenshots/Cadastro.png">
