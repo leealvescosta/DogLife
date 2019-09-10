@@ -8,7 +8,7 @@
 
 > You can **fork** this project
 
-> Inspirado no prejto criado por 
+> Inspirado no projeto criado por 
 [Balta.io](https://www.youtube.com/watch?v=Rc_GJpRU6VI&list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61)
 <p align='center'>
 <img src="screenshots/DogLife.gif">
