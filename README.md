@@ -1,22 +1,32 @@
-# Tela de Login #
-
-## Login Screen ##
+# Login Screen #
 
 > A new Flutter project.
+
 > Projeto criado com **Flutter** :heart:.
+
 > Login Screen *Example* *only*
+
 > You can **fork** this project
+<<<<<<< HEAD
 > Projeto inspirado no projeto criado por [Balta.io](https://www.youtube.com/watch?v=Rc_GJpRU6VI&list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61)
+=======
+>>>>>>> refs/remotes/origin/master
 
-![**](screenshots/DogLife.gif)
+> Inspirado no projeto criado por 
+[Balta.io](https://www.youtube.com/watch?v=Rc_GJpRU6VI&list=PLHlHvK2lnJndc8qCqmQdHr-cLoOb2-q61)
+<p align='center'>
+<img src="screenshots/DogLife.gif">
+ </p>
 
-![Login](screenshots/Login.png)
-![Cadastro](screenshots/Cadastro.png)
-![Redefinir Senha](screenshots/Resetar-Senha.png)
+<p align='center'>
+  <img width="300" height="480" src="screenshots/Login.png">
+  <img width="300" height="480" src="screenshots/Cadastro.png">
+  <img width="300" height="480" src="screenshots/Resetar-Senha.png">
+</p>
 
 ## Change Log ##
 
-Nothing changed at same
+- Nothing changed at same
 
 ## Version 1.0.0 ##
 
@@ -27,8 +37,9 @@ Screens for SignUp, Reset Password and Application Home done.
 
 ## License ##
 
-[![GNU License](https://www.gnu.org/licenses/lgpl-3.0.html)
-[![MIT License](https://opensource.org/licenses/MIT)
+- [GNU License](https://www.gnu.org/licenses/lgpl-3.0.html)
+
+- [MIT License](https://opensource.org/licenses/MIT)
 
 ## Getting Started  Witth Flutter ##
 
